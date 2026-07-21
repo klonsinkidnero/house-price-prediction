@@ -126,11 +126,6 @@ streamlit run app.py
 
 ---
 
-## 💻 Application Preview
-
-_(Add screenshots of your Streamlit application here.)_
-
----
 
 ## 🎯 What I Learned
 
@@ -169,9 +164,9 @@ Computer Science Graduate
 
 Machine Learning & Data Analytics Enthusiast
 
-GitHub: _(Add your GitHub profile)_
+GitHub: _(https://github.com/klonsinkidnero)_
 
-LinkedIn: _(Add your LinkedIn profile)_
+LinkedIn: _()_
 
 ---
 
