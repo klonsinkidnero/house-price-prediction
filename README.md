@@ -166,7 +166,7 @@ Machine Learning & Data Analytics Enthusiast
 
 GitHub: _(https://github.com/klonsinkidnero)_
 
-LinkedIn: _()_
+LinkedIn: _(https://www.linkedin.com/in/adeyemi-oluwanifemi-50a94b418?utm_source=share_via&utm_content=profile&utm_medium=member_android)_
 
 ---
 
